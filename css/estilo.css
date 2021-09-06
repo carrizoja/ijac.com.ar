@@ -575,3 +575,71 @@
     height: 35%;
     width: 35%;
     padding-left: 20%; } }
+
+/* CSS para Microsoft-Linux*/
+/* variables para sección Microsoft-Linux */
+/* Css para Microsoft */
+.img-fluid {
+  border-radius: 5px;
+  padding-bottom: 2%;
+  margin-top: 3%; }
+
+.ms-linux {
+  background: linear-gradient(to left bottom, #b6b1b1, rgba(238, 232, 232, 0.883));
+  justify-content: center; }
+
+.ms-elemento--estilo-caja {
+  background: linear-gradient(to bottom, #010008, #080350);
+  padding-top: 2%;
+  margin-top: 3%;
+  height: 93%;
+  border-radius: 5px; }
+
+.ms-elemento--estilo-h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  color: white; }
+
+.ms-elemento ul {
+  margin-left: 10%;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px; }
+
+.ms--elemento li {
+  display: flex;
+  justify-content: center; }
+
+.ms-elemento--lista-estilo {
+  list-style: none; }
+
+.linux-elemento--estilo-caja {
+  background: linear-gradient(to bottom, #0c6bb8, #5eb7eb);
+  padding-top: 2%;
+  margin-top: 3%;
+  height: 93%;
+  border-radius: 5px; }
+
+.linux-elemento--estilo-h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  color: white; }
+
+.linux-elemento ul {
+  margin-left: 10%;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px; }
+
+.linux--elemento li {
+  display: flex;
+  justify-content: center; }
+
+.linux-elemento--lista-estilo {
+  list-style: none; }
